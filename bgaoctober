@@ -1,0 +1,95 @@
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i5wyEor.png" group-title="General",Telecaribe (720p)
+https://iptv-all.lanesh4d0w.codes/colombia/telecaribe_adaptive
+#EXTINF:-1 tvg-id="135" tvg-name="TelePacífico" tvg-logo="https://www.m3u.cl/logo/135_Telepacifico.png", Telepacífico | CO
+http://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="115" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/115_Canal_Capital.png", Canal Capital | CO
+http://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://www.m3u.cl/logo/119_Canal_Trece.png", Canal Trece | CO
+http://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="137" tvg-name="Tele Islas" tvg-logo="https://www.m3u.cl/logo/137_Tele_Islas.jpg", Tele Islas | CO
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="131" tvg-name="Telecafe" tvg-logo="https://www.m3u.cl/logo/131_Telecafe.png", Telecafe | CO
+http://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Mi Gente TV (720p) [Not 24/7]
+https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="129" tvg-name="Suram" tvg-logo="https://www.m3u.cl/logo/129_Suram.jpg", Suram | CO
+http://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="US;LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320" group-title="Music",Vallenato Internacional (720p)
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepetroleo.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/telepetroleo-2308.jpg" group-title="Local",Telepetróleo (Barrancabermeja | Santander) (720p)
+https://iptv-all.lanesh4d0w.codes/colombia/telepetroleo.m3u8
+#EXTINF:-1 tvg-id="EnlaceTelevision.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="General",Enlace Televisión (720p)
+http://iptv-all.lanesh4d0w.codes/colombia/enlace.m3u8
+#EXTINF:-1 tvg-id="UNOPLAY.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RReDi1C.png" group-title="Entertainment",UNO PLAY (720p) [Not 24/7]
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 tvg-id="LATAMTV.tv" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://t46.90f.myftpupload.com/wp-content/uploads/2020/08/cropped-Logo-LATAM-Horizontal-solo-alfa.png" group-title="",LATAM TV (Bogotà) (540p) [Not 24/7]
+https://iptv-all.lanesh4d0w.codes/latam
+#EXTINF:-1 tvg-id="EuroNews.eu" tvg-country="EU"
+https://youtu.be/JbKgQhFlMdU
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+https://youtu.be/bKpGAHgpYoU
+#EXTINF:-1 tvg-id="c3fe275f85bba7dad176d77e47aefc74",FRANCE 24 ESPAÑOL
+https://youtu.be/gLCdriJrfgs
+#EXTINF:-1 tvg-id="0de9cc5c42d28d1874ee8a4ebdd1191e",Rusia Today
+https://youtu.be/9DXGrOU5wKQ
+#EXTINF:-1 tvg-id="e86c4bf563d2055250553bf577861e73",TELESUR
+https://youtu.be/euyhLnW4AYs
+#EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religious",EWTN el Canal Católico (1080p)
+http://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MariaVisionMexico.mx" tvg-country="MX" tvg-language="" tvg-logo="" group-title="",María Visión Mexico (1080p)
+http://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNGlobal.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",TVN Global (614p)
+https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
+#EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Religious",Avivamiento TV (720p) [Not 24/7]
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-id="FamiliChannel.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/famili-channel-5336.jpg" group-title="Family",Famili Channel (720p) [Not 24/7]
+https://rtmp02.portalexpress.es/thefchanel/thefchanel/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Canal Visión Dorada (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="MarinaStereo.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.marinastereo.co/wp-content/uploads/2019/11/LOGO-4-300x136.png" group-title="",Marina Stereo (720p)
+https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
+#EXTINF:-1 tvg-id="2ec0427ed991b42747d78c0bffe88a93",Canal Publico de Argentina
+http://10.10.151.254:9981/stream/channelid/2118303790?profile=pass
+#EXTINF:-1 tvg-id="9dbdf89de5aa4413dd0d63148dfd60e3",TV Galicia
+http://10.10.151.254:9981/stream/channelid/502840733?profile=pass
+#EXTINF:-1 tvg-id="d813e51afa279df6c4be171dbb9addfd",Canal Vasco
+http://10.10.151.254:9981/stream/channelid/451220440?profile=pass
+#EXTINF:-1 tvg-id="0875859622510eaa31fff32f4756d9c3",OROMAR
+http://10.10.151.254:9981/stream/channelid/377845000?profile=pass
+#EXTINF:-1 tvg-id="Azcorazon.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="",Azcorazon (480p)
+http://181.115.72.65:8099/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="Azmundo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="" group-title="",Azmundo (480p)
+http://181.115.72.65:8099/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="XHTITTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="Local",Azteca 7 (XHTIT-TDT) (1080p)
+https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF:-1 tvg-id="XHASTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" group-title="Local",Azteca America (XHAS-TDT) (1080p)
+https://cdn87.theus6tv.tk/locals/SanDiego/xhas-tdt.m3u8
+#EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Local",Azteca Uno (XHJK-TDT) (1080p)
+https://cdn87.theus6tv.tk/locals/SanDiego/xhjk-tdt.m3u8
+#EXTINF:-1 tvg-id="CanaldelasEstrellas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.lasestrellas.tv/assets/08680ecc38e44f53/images/icn_lasestrellas_512x512.png" group-title="Local",Canal de Las Estrellas (480p)
+http://38.131.11.9:1080/play/a032
+#EXTINF:-1 tvg-id="OnceMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="",Once Mexico (720p)
+https://live2.canaloncelive.tv/livepkgr3/cepro/playlist.m3u8
+#EXTINF:-1 tvg-id="TELESISTEMACANAL9.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg" group-title="",TELE SISTEMA CANAL 9 (720p)
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" group-title="News",Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="",Latina (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV [Not 24/7]
+http://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-id="49c9d53f428c7c1dd1c71dd363b27625",123 TV
+http://10.10.151.254:9981/stream/channelid/1070975305?profile=pass
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR;PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbue1WVK5s0ne8sFBVwxf6u7-TbKAdPjK-YCHI8g=s400-c-k-c0x00ffffff-no-rj" group-title="Kids",Pakapaka [Not 24/7]
+https://www.youtube.com/channel/UCVVNYxncuD4EfHpKDlPIYcQ/live
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Animation",Anime Zone TV (480p)
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
